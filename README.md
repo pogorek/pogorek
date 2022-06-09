@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter.
-- 👀 I’m interested in programing, computer science.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ... Nothing for now ;)
+- 👀 I’m interested in programing, computer science and woodworking.
+- 🌱 I’m currently learning mostly Python but also JS.
+- 💞️ I’m looking to collaborate on ... surprise me ;)
 - 📫 How to reach me ... say my name 3 times.
 
 <!---
